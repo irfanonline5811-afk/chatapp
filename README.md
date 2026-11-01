@@ -4,6 +4,18 @@ A modern, full-featured real-time Chat and Messaging application built with **Fl
 
 ---
 
+## 📸 App Screenshots
+
+| Splash Screen | Welcome Screen | Login Screen |
+|:---:|:---:|:---:|
+| <img src="screenshots/01_splash_screen.png" width="220" /> | <img src="screenshots/02_welcome_screen.png" width="220" /> | <img src="screenshots/03_login_screen.png" width="220" /> |
+
+| Create Account | Chats Screen |
+|:---:|:---:|
+| <img src="screenshots/04_signup_screen.png" width="220" /> | <img src="screenshots/05_home_chats.png" width="220" /> |
+
+---
+
 ## 🌟 Key Features Overview
 
 ### 1. 🔐 Authentication & Security
