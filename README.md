@@ -10,9 +10,13 @@ A modern, full-featured real-time Chat and Messaging application built with **Fl
 |:---:|:---:|:---:|
 | <img src="screenshots/01_splash_screen.png" width="220" /> | <img src="screenshots/02_welcome_screen.png" width="220" /> | <img src="screenshots/03_login_screen.png" width="220" /> |
 
-| Create Account | Chats Screen |
+| Create Account | Chats Screen | Create Group Dialog |
+|:---:|:---:|:---:|
+| <img src="screenshots/04_signup_screen.png" width="220" /> | <img src="screenshots/05_home_chats.png" width="220" /> | <img src="screenshots/07_create_group.png" width="220" /> |
+
+| Status / Stories | App Settings |
 |:---:|:---:|
-| <img src="screenshots/04_signup_screen.png" width="220" /> | <img src="screenshots/05_home_chats.png" width="220" /> |
+| <img src="screenshots/06_status_tab.png" width="220" /> | <img src="screenshots/08_settings_screen.png" width="220" /> |
 
 ---
 
